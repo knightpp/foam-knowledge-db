@@ -118,20 +118,20 @@
 
 # Software replacements 
 ### ls
-(exa)[https://github.com/ogham/exa]
+[exa](https://github.com/ogham/exa)
 ### cat
-(bat)[https://github.com/sharkdp/bat]
+[bat](https://github.com/sharkdp/bat)
 ### Find
-(fd)[https://github.com/sharkdp/fd]
+[fd](https://github.com/sharkdp/fd)
 ### ps
-(procs)[https://github.com/dalance/procs]
+[procs](https://github.com/dalance/procs)
 ### sed
-(sd)[https://github.com/chmln/sd]
+[sd](https://github.com/chmln/sd)
 ### du
-(dust)[https://github.com/bootandy/dust]
+[dust](https://github.com/bootandy/dust)
 ### grep
-(ripgrep)[https://github.com/BurntSushi/ripgrep]
-#### There is also (hyperfine)[https://github.com/sharkdp/hyperfine] for benchmarking commands
+[ripgrep](https://github.com/BurntSushi/ripgrep)
+#### There is also [hyperfine](https://github.com/sharkdp/hyperfine) for benchmarking commands
 
 
 # Rust specific
