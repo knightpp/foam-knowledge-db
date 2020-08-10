@@ -4,6 +4,7 @@
 | -------------------------------------- | ------------- | ----------------- |
 | C Primer Plus (5th Edition)            | Stephen Prata | 978-0672326967    |
 | Beginning App Development with Flutter | Rap Payne     | 978-1-4842-5181-2 |
+| Code: The Hidden Language of Computer Hardware and Software | Charles Petzold | 5–7502–0159–7 (ru)|
 
 # Reading Now
 
@@ -29,6 +30,7 @@
 | name                       | author                | ISBN              |
 | -------------------------- | --------------------- | ----------------- |
 | Introduction to Algorithms | Thomas H. Cormen, ... | 978-0-262-03384-8 |
+| [RE4B](https://beginners.re/) | Dennis Yurichev | - |
 
 # Dropped books
 
