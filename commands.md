@@ -82,6 +82,10 @@
 
 `tar --zstd -xvf input.tar.zst --directory output-dir`
 
+## Images
+### Image to svg 
+`potrace -s input.pnm -o output.svg`
+
 ## Developer
 
 ### Automatically get linker flags
