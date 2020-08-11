@@ -117,20 +117,16 @@
 `cat /dev/urandom | hexdump -v -e '/1 "%u\n"' | awk '{ split("4,5,7,11",a,","); for (i = 0; i < 1; i+= 0.0001) printf("%08X\n", 100*sin(1046*exp((a[$1 % 8]/12)*log(2))*i)) }' | xxd -r -p | aplay -c 2 -f S32_LE -r 24000`
 
 # Software replacements 
-### ls
-[exa](https://github.com/ogham/exa)
-### cat
-[bat](https://github.com/sharkdp/bat)
-### Find
-[fd](https://github.com/sharkdp/fd)
-### ps
-[procs](https://github.com/dalance/procs)
-### sed
-[sd](https://github.com/chmln/sd)
-### du
-[dust](https://github.com/bootandy/dust)
-### grep
-[ripgrep](https://github.com/BurntSushi/ripgrep)
+| origin | replacement                                      |
+| ------ | ------------------------------------------------ |
+| ls     | [exa](https://github.com/ogham/exa)              |
+| cat    | [bat](https://github.com/sharkdp/bat)            |
+| find   | [fd](https://github.com/sharkdp/fd)              |
+| ps     | [procs](https://github.com/dalance/procs)        |
+| sed    | [sd](https://github.com/chmln/sd)                |
+| du     | [dust](https://github.com/bootandy/dust)         |
+| grep   | [ripgrep](https://github.com/BurntSushi/ripgrep) |
+
 #### There is also [hyperfine](https://github.com/sharkdp/hyperfine) for benchmarking commands
 
 
