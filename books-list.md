@@ -27,10 +27,11 @@
 
 # Books I should read
 
-| name                       | author                | ISBN              |
-| -------------------------- | --------------------- | ----------------- |
-| Introduction to Algorithms | Thomas H. Cormen, ... | 978-0-262-03384-8 |
-| [RE4B](https://beginners.re/) | Dennis Yurichev | - |
+| name                                               | author                | ISBN              |
+| -------------------------------------------------- | --------------------- | ----------------- |
+| Introduction to Algorithms                         | Thomas H. Cormen, ... | 978-0-262-03384-8 |
+| [RE4B](https://beginners.re/)                      | Dennis Yurichev       | -                 |
+| [DOD](https://www.dataorienteddesign.com/dodbook/) |                       |                   |
 
 # Dropped books
 
