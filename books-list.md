@@ -1,10 +1,10 @@
 # Books I have read
 
-| name                                   | author        | ISBN              |
-| -------------------------------------- | ------------- | ----------------- |
-| C Primer Plus (5th Edition)            | Stephen Prata | 978-0672326967    |
-| Beginning App Development with Flutter | Rap Payne     | 978-1-4842-5181-2 |
-| Code: The Hidden Language of Computer Hardware and Software | Charles Petzold | 5–7502–0159–7 (ru)|
+| name                                                        | author          | ISBN               |
+| ----------------------------------------------------------- | --------------- | ------------------ |
+| C Primer Plus (5th Edition)                                 | Stephen Prata   | 978-0672326967     |
+| Beginning App Development with Flutter                      | Rap Payne       | 978-1-4842-5181-2  |
+| Code: The Hidden Language of Computer Hardware and Software | Charles Petzold | 5–7502–0159–7 (ru) |
 
 # Reading Now
 
@@ -14,6 +14,7 @@
 | Modern Operating Systems (4th)  | Andrew S. Tanenbaum, Herbert Bos | 978-5-496-01395-6    |
 |                                 |                                  | 978-0133591620 (eng) |
 | The Linux Programming Interface | Michael Kerrisk                  | 978-1-59327-220-3    |
+| Haskellbook                     | C. Allen, J. Moronuki            |                      |
 
 # Pendig books (Started reading)
 
