@@ -85,7 +85,10 @@
 ## Images
 ### Image to svg 
 `potrace -s input.pnm -o output.svg`
-
+### Strip (remove) metadata from image
+> comes from `imagemagick`
+> 
+`mogrify -strip *jpg` 
 ## Developer
 
 ### Automatically get linker flags
